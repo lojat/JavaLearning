@@ -1,0 +1,14 @@
+Static Initialization Block Challenge
+
+Create a class named Calculator with two static integer variables: num1 and num2.
+
+Challenge: Use a static initialization block to assign values to num1 and num2 before any Calculator object is created.
+
+Test your code:
+
+In your main method, directly print the values of num1 and num2 without creating a Calculator object.
+
+Explanation:
+
+Static initialization blocks are executed only once, when the class is loaded into memory. This ensures the values are assigned before any object usage.
+
