@@ -37,7 +37,9 @@ public class DiamandArr {
 
 	private static void display(int n, int[][] arr) {
 		 System.out.println("n"+n/2);
-		int j=n-1;
+		
+		 int j=n-1;
+		
 		for(int i=(n/2);i>=0;i--)
 			System.out.print(arr[i][j--]+" ");
 		
