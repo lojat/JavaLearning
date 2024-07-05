@@ -1,4 +1,4 @@
-package FinalDemo;
+package finalDemo;
 
 public class App {
 

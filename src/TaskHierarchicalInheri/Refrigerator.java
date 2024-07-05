@@ -1,4 +1,4 @@
-package TaskHierarchicalInheri;
+package taskHierarchicalInheri;
 
 public class Refrigerator extends Appliance{
 

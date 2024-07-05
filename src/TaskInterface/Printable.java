@@ -1,4 +1,4 @@
-package TaskInterface;
+package taskInterface;
 
 public interface Printable {
 

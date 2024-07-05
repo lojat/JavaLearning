@@ -1,4 +1,4 @@
-package TaskHierarchicalInheri;
+package taskHierarchicalInheri;
 
 public class Oven extends Appliance {
 	
@@ -9,7 +9,7 @@ public class Oven extends Appliance {
 	}
 	
 	public void display() {
-		display();
+		super.display();
 		System.out.println("Temperature= "+maxTemp);
 	}
 }

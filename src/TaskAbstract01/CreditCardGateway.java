@@ -1,4 +1,4 @@
-package TaskAbstract01;
+package taskAbstract01;
 
 public class CreditCardGateway extends PaymentGateway{
 

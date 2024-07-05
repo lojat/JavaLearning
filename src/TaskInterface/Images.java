@@ -1,4 +1,4 @@
-package TaskInterface;
+package taskInterface;
 
 public class Images implements Printable{
 

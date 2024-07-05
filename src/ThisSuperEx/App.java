@@ -1,4 +1,4 @@
-package ThisSuperEx;
+package thisSuperEx;
 
 public class App {
 

@@ -1,4 +1,4 @@
-package TaskStatic02;
+package taskStatic02;
 
 public class Calculator {
 	

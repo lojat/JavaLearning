@@ -1,4 +1,4 @@
-package TaskStatic01;
+package taskStatic01;
 
 public class Counter {
 	
