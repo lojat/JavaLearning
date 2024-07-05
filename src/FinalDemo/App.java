@@ -4,13 +4,17 @@ public class App {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		// creating objects
+		Bike bike = new Bike();
+		Yamaha yamaha = new Yamaha();
 		
-		Bike b1 = new Bike();
+		//calling methods
+		yamaha.stop();
 		
-		b1.run();
-		System.out.println("Speed ="+b1.speed);
-		System.out.println("Brand ="+b1.brand);
-		b1.stop();
+		bike.run();
+		System.out.println("Speed ="+bike.speed);
+		System.out.println("Brand ="+bike.brand);
+		bike.stop();
 		
 	}
 
