@@ -1,8 +1,8 @@
-package collectionEx;
+package labs;
 
 import java.util.Vector;
 
-public class VectorDemo01 {
+public class Lab8 {
 
 	public static void main(String[] args) {
 		//Vector of integers

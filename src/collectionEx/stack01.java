@@ -24,7 +24,7 @@ public class stack01 {
 		stack.push(20);
 		stack.push(30);
 		stack.push(40);
-		stack.push(50);
+		System.out.println(stack.push(50));
 		
 		System.out.println("Pop: "+stack.pop());
 		
