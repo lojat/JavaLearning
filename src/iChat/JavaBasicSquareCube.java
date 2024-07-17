@@ -1,6 +1,6 @@
 package iChat;
 
-public class SquareCube {
+public class JavaBasicSquareCube {
 
 	public static void main(String[] args) {
 		

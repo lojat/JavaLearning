@@ -14,7 +14,7 @@ package iChat;
 
 import java.util.Scanner;
 
-public class DigitSum {
+public class JavaBasicDigitSum {
 
 	public static void main(String[] args) {
 	 
