@@ -1,4 +1,4 @@
-package taskAbstract01;
+package taskabstract01;
 
 public class PaypalGateway extends PaymentGateway{
 

@@ -1,4 +1,4 @@
-package taskAbstract;
+package taskabstract;
 
 public class CheckingAccount extends BankAccount {
 

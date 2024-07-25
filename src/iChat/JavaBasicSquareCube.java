@@ -1,4 +1,4 @@
-package iChat;
+package ichat;
 
 public class JavaBasicSquareCube {
 

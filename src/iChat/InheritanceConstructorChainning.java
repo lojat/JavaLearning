@@ -1,4 +1,4 @@
-package iChat;
+package ichat;
 
 //Describe the concept of constructor chaining and how it works in Java inheritance.?
 

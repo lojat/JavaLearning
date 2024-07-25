@@ -1,4 +1,4 @@
-package finalDemo;
+package finaldemo;
 
 final class Yamaha extends Bike {
 

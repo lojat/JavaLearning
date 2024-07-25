@@ -1,4 +1,4 @@
-package finalDemo;
+package finaldemo;
 
 class Bike {
 	

@@ -1,4 +1,4 @@
-package staticEx;
+package staticex;
 
 
 //static is for memory management the instance of static is constant for all objects its belongs to class rather then objects

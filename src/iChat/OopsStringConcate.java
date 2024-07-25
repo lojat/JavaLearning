@@ -1,4 +1,4 @@
-package iChat;
+package ichat;
 
 import java.util.Scanner;
 

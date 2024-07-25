@@ -1,4 +1,4 @@
-package multiThreading;
+package multithreading;
 
 class Thread1 implements Runnable{
 

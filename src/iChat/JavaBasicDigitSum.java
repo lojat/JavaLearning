@@ -1,4 +1,4 @@
-package iChat;
+package ichat;
 
 //
 //Write a Java program to print the sum of the digits of a number until the result is a single digit.

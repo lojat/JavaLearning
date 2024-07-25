@@ -1,4 +1,4 @@
-package overLoading;
+package overloading;
 
 public class App {
 

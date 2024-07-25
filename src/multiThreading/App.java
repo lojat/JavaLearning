@@ -1,4 +1,4 @@
-package multiThreading;
+package multithreading;
 
 
 //class with inherit Thread class

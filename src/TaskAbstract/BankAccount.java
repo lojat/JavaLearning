@@ -1,4 +1,4 @@
-package taskAbstract;
+package taskabstract;
 
 public abstract class BankAccount {
 

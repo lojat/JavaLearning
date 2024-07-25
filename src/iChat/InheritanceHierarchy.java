@@ -1,4 +1,4 @@
-package iChat;
+package ichat;
 
 //Write a Java program that creates a class hierarchy for employees of a company. The base class should be Employee,
 //with subclasses Manager, Developer, and Programmer. Each subclass should have properties 

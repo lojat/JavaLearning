@@ -1,4 +1,4 @@
-package starPattern;
+package starpattern;
 import java.util.Scanner;
 
 public class MyPatterns {

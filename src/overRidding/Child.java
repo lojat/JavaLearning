@@ -1,4 +1,4 @@
-package overRidding;
+package overridding;
 
 public class Child extends Parrent {
 

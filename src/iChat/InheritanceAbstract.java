@@ -1,4 +1,4 @@
-package iChat;
+package ichat;
 
 //abstract class
 abstract class Bike{
