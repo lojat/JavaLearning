@@ -1,6 +1,6 @@
 package functional.interfaces;
 
-@FunctionalInterface
+ 
 interface Say {
     void say(String msg);
 }
